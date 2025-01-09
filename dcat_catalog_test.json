@@ -1,0 +1,147 @@
+{
+    "@context": "https://www.w3.org/ns/dcat#",
+    "@type": "Catalog",
+    "dataset": [
+        {
+            "@type": "Dataset",
+            "identifier": null,
+            "title": "California coast, ecosystem surveys of sandy beaches and surf zones August 2019-February 2020",
+            "description": null,
+            "landingPage": null,
+            "issued": "2022-01-01",
+            "temporal": "2019-08-01 to 2019-08-01",
+            "keyword": [
+                "Marine_Protected_Areas__MPA_",
+                "Baseline_MPA_monitoring",
+                "Long_term_MPA_monitoring",
+                "MPA_research_and_monitoring",
+                "Sandy_beach___surf_zone",
+                "Biological_data",
+                "Fish",
+                "Invertebrates",
+                "Birds",
+                "Wrack",
+                "Algae",
+                "Nonconsumptive_Uses",
+                "Consumptive_uses",
+                "Fish_seine",
+                "Baited_remote_underwater_video__BRUV_",
+                "Beach_characteristics"
+            ],
+            "distribution": [
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:a36928ee-64b1-4725-ba44-9a67db1feae5",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Aa36928ee-64b1-4725-ba44-9a67db1feae5",
+                    "fileName": "beach_bird_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:2c7ecda6-39fd-49f4-983e-4338ff5aa89b",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A2c7ecda6-39fd-49f4-983e-4338ff5aa89b",
+                    "fileName": "beach_visitor_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:353e7b25-4085-46d2-9f38-3ec12a6a60b8",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A353e7b25-4085-46d2-9f38-3ec12a6a60b8",
+                    "fileName": "surfzone_fish_seine_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:b0c5c32e-61b4-4ecc-b86f-8e3b9a723340",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Ab0c5c32e-61b4-4ecc-b86f-8e3b9a723340",
+                    "fileName": "beach_physicals_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:c6e4fbc6-5855-4901-b878-c0a2923da482",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Ac6e4fbc6-5855-4901-b878-c0a2923da482",
+                    "fileName": "California_coast_ecosystem_surveys_of_sandy.xml",
+                    "formatId": "https://eml.ecoinformatics.org/eml-2.2.0",
+                    "formatType": "METADATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:d08cee38-e84c-4173-910e-31723d20fe24",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Ad08cee38-e84c-4173-910e-31723d20fe24",
+                    "fileName": "MPA_BeachSurfZoneSites_Methods_dataone.pdf",
+                    "formatId": "application/pdf",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:13c60998-80c4-4c29-8dd7-49dfb2fe69da",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A13c60998-80c4-4c29-8dd7-49dfb2fe69da",
+                    "fileName": "fish_bruv_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:f4e4aa08-8490-4fc9-a9f8-6531f3002331",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Af4e4aa08-8490-4fc9-a9f8-6531f3002331",
+                    "fileName": "beach_kelp_plant_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:3150b29c-6e3c-4a26-bf0a-7859947d1ad9",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A3150b29c-6e3c-4a26-bf0a-7859947d1ad9",
+                    "fileName": "MPABeachFishMPAnames.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:718a587a-41d6-49c8-a44d-8bc898cc0c8f",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A718a587a-41d6-49c8-a44d-8bc898cc0c8f",
+                    "fileName": "bird_beach_wrack_data.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:10a85317-7697-4dfd-95fb-be99f784349d",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A10a85317-7697-4dfd-95fb-be99f784349d",
+                    "fileName": "surfzone_MASTER_species.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "urn:uuid:1fbc05b1-bef3-4778-9d0f-5f12d269e0c3",
+                    "accessURL": "https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1fbc05b1-bef3-4778-9d0f-5f12d269e0c3",
+                    "fileName": "beach_birds_species.csv",
+                    "formatId": "text/csv",
+                    "formatType": "DATA",
+                    "size": null
+                }
+            ],
+            "publisher": {
+                "name": "University of California"
+            },
+            "notes": "California coast, ecosystem surveys of sandy beaches and surf zones August 2019-February 2020"
+        }
+    ]
+}
