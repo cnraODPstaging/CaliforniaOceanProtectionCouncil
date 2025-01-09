@@ -4,10 +4,10 @@
     "dataset": [
         {
             "@type": "Dataset",
-            "identifier": null,
+            "identifier": "2345",
             "title": "California coast, ecosystem surveys of sandy beaches and surf zones August 2019-February 2020",
-            "description": null,
-            "landingPage": null,
+            "description": "some description",
+            "landingPage": "www.harvest.com",
             "issued": "2022-01-01",
             "temporal": "2019-08-01 to 2019-08-01",
             "keyword": [
